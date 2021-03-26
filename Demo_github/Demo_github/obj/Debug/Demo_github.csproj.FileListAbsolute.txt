@@ -1,1 +1,2 @@
 E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\Demo_github\Demo_github\bin\Debug\Demo_github.exe.config
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\bin\Debug\Demo_github.exe.config
