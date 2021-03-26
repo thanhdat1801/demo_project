@@ -1,2 +1,14 @@
 E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\Demo_github\Demo_github\bin\Debug\Demo_github.exe.config
 E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\bin\Debug\Demo_github.exe.config
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\bin\Debug\Demo_github.exe
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\bin\Debug\Demo_github.pdb
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\bin\Debug\controlDN.dll
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\bin\Debug\controlDN.pdb
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.csprojResolveAssemblyReference.cache
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.Form1.resources
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.Form2.resources
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.Properties.Resources.resources
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.csproj.GenerateResource.Cache
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.exe
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.pdb
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.Form3.resources
