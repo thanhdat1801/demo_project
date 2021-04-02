@@ -58,6 +58,7 @@
             this.txtmk.Name = "txtmk";
             this.txtmk.Size = new System.Drawing.Size(155, 20);
             this.txtmk.TabIndex = 3;
+            this.txtmk.UseSystemPasswordChar = true;
             // 
             // label2
             // 

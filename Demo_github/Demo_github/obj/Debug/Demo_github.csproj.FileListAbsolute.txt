@@ -12,3 +12,8 @@ E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_gith
 E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.exe
 E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.pdb
 E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.Form3.resources
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.frmDSManHinh.resources
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.frmNgDung.resources
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.frmNhomNgDung.resources
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.frmNgDungNhomNgDung.resources
+E:\LUUDULIEUSINHVIEN\PhanThanhDat_2001181047_PTPMTM_Buoi4\demo_project\Demo_github\Demo_github\obj\Debug\Demo_github.frmPhanQuyen.resources

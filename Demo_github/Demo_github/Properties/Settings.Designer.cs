@@ -25,13 +25,23 @@ namespace Demo_github.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=A111PC16;Initial Catalog=Demo;User ID=sa;Password=123")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=A111PC16;Initial Catalog=Demo;User ID=sa;Password=12345")]
         public string ChuoiKetNoi {
             get {
                 return ((string)(this["ChuoiKetNoi"]));
             }
             set {
                 this["ChuoiKetNoi"] = value;
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=A111PC16;Initial Catalog=QL_NguoiDung;User ID=sa;Password=123")]
+        public string QL_NguoiDungConnectionString {
+            get {
+                return ((string)(this["QL_NguoiDungConnectionString"]));
             }
         }
     }
